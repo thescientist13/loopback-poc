@@ -1,8 +1,8 @@
 'use strict';
 
-var gulp = require('gulp');
-var validatePipelineJs = require('pipeline-validate-js');
-var validatePipelineJson = require('gulp-jsonlint');
+import gulp from 'gulp';
+import validatePipelineJs from 'pipeline-validate-js';
+import validatePipelineJson from 'gulp-jsonlint';
 
 // single tasks
 gulp.task('lint:js', function() {
