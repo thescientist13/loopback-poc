@@ -1,3 +1,5 @@
-module.exports = function(Album) {
+'use strict';
 
+module.exports = function(Album) {
+  console.log(Album);
 };

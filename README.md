@@ -20,4 +20,5 @@ You can know run all the Node / NPM and CLI commands on a Ubuntu 14.04 Linux VM.
 3. Install dependencies `npm install`
 
 ## Running the POC
-Run `node .`
+1. Run `node .`
+2. Open `localhost:1981` in your browser

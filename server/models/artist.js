@@ -1,3 +1,5 @@
-module.exports = function(Artist) {
+'use strict';
 
+module.exports = function(Artist) {
+  console.log(Artist);
 };
